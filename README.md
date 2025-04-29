@@ -3,5 +3,6 @@
 - 🔭 I’m working on AI tools
 - 🌱 I’m currently learning Mamba and Transformers
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rishi-yadav&theme=algolia&no-frame=true&column=4&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishi-yadav&theme=radical)](https://git.io/streak-stats)
+
 
