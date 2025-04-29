@@ -1,4 +1,4 @@
-### Hi there 👋 I'm John
+### Hi there 👋 I'm Rishi
 
 - 🔭 I’m working on AI tools
 - 🌱 I’m currently learning Mamba and Transformers
